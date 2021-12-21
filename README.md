@@ -1,4 +1,4 @@
-# estudoMD
+# estudoMD: Markdown
 Projeto de estudo de arquivos markdown (md)
 ## o que é o Git?
 <img src="https://blog-geek-midia.s3.amazonaws.com/wp-content/uploads/2020/08/06103546/comandos-git.png">
@@ -12,3 +12,20 @@ Em suma, o GitHub é um serviço baseado em nuvem que hospeda um sistema de cont
 
 
 o GitHub pode ser baixado clicando em <a href="https://www.hostinger.com.br/"> AQUI </a>
+## Tragetória do Processo de Criação do GitHub
+
+* git init : Inicializa o repositório no Git
+* git add: Adciona conteú ao indice 
+* git status : Visualiza o "status" de todo o processo
+* git commit: grava alterações no repositório 
+* git branch: Listar, criar ou executar branches
+* git remote: Gerenciar um repositório
+
+## Processo Prático
+1.Acessar o repositório local e executar o Gitbash (terminal git) dentro deste dirtetório
+2. No git bash executa o comando git init
+3. Executar o comando git add
+4. Executar o comando git commit -m "primeiro commit"
+5. executar o comando ...
+
+**OBS: Para realialização dos procedimentos é necessário a autenticação do usuário no GitHub no terminal do Git (user.name, user.email, token).
